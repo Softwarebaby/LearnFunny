@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">知趣</string>
+    <string name="string_about_jianshu">简书网址: http://www.jianshu.com/users/0e5c18063e48/</string>
+    <string name="string_about_blog">博客网址: https://lvmdu.wordpress.com/</string>
+    <string name="string_about_banquan">版权归作者所有</string>
+    <string name="string_about_notification">请勿用于商业用途</string>
+    <string name="about_background"><![CDATA[http://cn.bing.com/az/hprichbg/rb/AberystwythSeafront_ROW10277565890_1920x1080.jpg]]></string>
+</resources>
